@@ -1,0 +1,19 @@
+feat(website): Faschingbauer Haustechnik & Ausbau – Modern UI Pro v3.1
+
+Design: Ethereal Oceanic & Industrial Thermal Precision + Variante B & E Hybrid
+Stack: HTML5, Tailwind, GSAP, Lenis, SplitType
+- Unified Palomar-Pattern Header with Collapsing Announcement Row (§ 19)
+- Kinetic Typography (SplitType) + Staggered Load Animations
+- 4-Gewerke Synergy Bento Grid with Double-Bezel & 3D Tilt (§ 3, § 0A #8)
+- Cinematic Sticky Scroll Stage for 4-Step Ausbau Process (§ 14)
+- Scroll-Driven Horizontal Marquee for Ingolstadt Districts (§ 16)
+- Animated Counter Stats for Trades & Master Guarantees (§ 0A #6)
+- Interaktiver 4-Gewerke Sanierungs- & Richtwert-Rechner (§ 6)
+- Multi-Step Funnel Contact Form (3 Steps + Formspree + Honeypot § 5)
+- Online-Terminbuchung UI-Dummy (§ 11)
+- Double-Bezel Legal Modal System for Impressum (§ 5 TMG) & Datenschutz (DSGVO Art. 13 § 9)
+- DSGVO Consent Banner with LocalStorage & Google Maps Opt-in (§ 2)
+- WhatsApp Floating Widget with Pulse Animation (491718914790 § 4)
+- WCAG 2.1 AA Accessibility (Skip-Link, Focus-Visible, ARIA FAQ, Landmarks § 3)
+- Performance Optimized (LCP fetchpriority="high", Lazy Loading, Preconnects § 7)
+- 0 hallucinated data points (Felix Faschingbauer, Eichenwaldstr. 55, 85049 Ingolstadt)
