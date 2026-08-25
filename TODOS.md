@@ -14,32 +14,32 @@
 - [x] `docs/design-system.md` erstellen
 - [x] `TODOS.md` erstellen
 
-## Phase 3 – BUILD 🔄
-- [ ] Bild-Assets mit `generate_image` generieren (Hero, Heizung, Sanitär, Dämmung, Estrich)
-- [ ] `index.html` mit semantischem HTML5, Palomar-Header, Wide-Canvas, Modals und Schema.org erstellen
-- [ ] `style.css` mit Modern UI Pro Tokens, Double-Bezel, Dark/Light Mode, Aurora & Noise erstellen
-- [ ] `app.js` mit Lenis, GSAP, SplitType, 3D Tilt, Rechner, Funnel & DSGVO Consent erstellen
+## Phase 3 – BUILD ✅
+- [x] Bild-Assets mit `generate_image` generieren (Hero, Heizung, Sanitär, Dämmung, Estrich, Meisterporträt)
+- [x] `index.html` mit semantischem HTML5, Palomar-Header, Wide-Canvas, Modals und Schema.org erstellen
+- [x] `style.css` mit Modern UI Pro Tokens, Double-Bezel, Dark/Light Mode, Aurora & Noise erstellen
+- [x] `app.js` mit Lenis, GSAP, SplitType, 3D Tilt, Rechner, Funnel & DSGVO Consent erstellen
 
-## Phase 4 – REVIEW ⏳
-- [ ] DSGVO & Legal Check (Banner, Opt-In Maps, Impressum & Datenschutz Modals)
-- [ ] Accessibility Check (WCAG AA, ARIA, Keyboard-Nav, Skip-Link)
-- [ ] Performance & Core Web Vitals Check (fetchpriority, lazy loading, aspect ratio)
-- [ ] Responsive Layout Check (Desktop 1440px, Tablet 768px, Mobile 375px)
-- [ ] `docs/review.md` erstellen
+## Phase 4 – REVIEW ✅
+- [x] DSGVO & Legal Check (Banner, Opt-In Maps, Impressum & Datenschutz Modals)
+- [x] Accessibility Check (WCAG AA, ARIA, Keyboard-Nav, Skip-Link)
+- [x] Performance & Core Web Vitals Check (fetchpriority, lazy loading, aspect ratio)
+- [x] Responsive Layout Check (Desktop 1440px, Tablet 768px, Mobile 375px)
+- [x] `docs/review.md` erstellen
 
-## Phase 5 – TEST ⏳
-- [ ] Standard Quick-Build Modus (QA-Checks vorbereitet für User-Abfrage)
+## Phase 5 – TEST (Quick-Build) ⏳
+- [ ] Automatisierter Live-Browser-Testlauf (Standard Quick-Build: bereit für User-Freigabe)
 
-## Phase 6 – SHIP ⏳
-- [ ] `COMMIT_MESSAGE.txt` erstellen
-- [ ] Git Repository initialisieren & Commit erstellen
+## Phase 6 – SHIP ✅
+- [x] `COMMIT_MESSAGE.txt` erstellen
+- [x] Git Repository initialisieren & Commit erstellen
 
-## Phase 7 – REFLECT ⏳
-- [ ] `docs/ANLEITUNG.md` erstellen
-- [ ] `docs/retro.md` erstellen
-- [ ] `README.md`, `start.bat`, `start.sh` erstellen
+## Phase 7 – REFLECT ✅
+- [x] `docs/ANLEITUNG.md` erstellen
+- [x] `docs/retro.md` erstellen
+- [x] `README.md`, `start.bat`, `start.sh` erstellen
 
-## Phase 8 – NOTION CRM SYNC & SALES PREP ⏳
-- [ ] Notion-Datenbank "Webdesign Sales Master-CRM" abfragen
-- [ ] Karte für Felix Faschingbauer / Faschingbauer Haustechnik erstellen/aktualisieren
-- [ ] Personalisiertes Telefon- & Video-Skript hinterlegen
+## Phase 8 – NOTION CRM SYNC & SALES PREP ✅
+- [x] Notion-Datenbank "Webdesign Sales Master-CRM" abgefragt
+- [x] Lead-Karte `3c79a9a1-5ad6-8177-8346-e5b9f3e3954e` für Felix Faschingbauer aktualisiert
+- [x] Personalisiertes Telefon- & Video-Skript hinterlegt
